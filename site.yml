@@ -1,0 +1,5 @@
+---
+- import_playbook: anygroup.yml
+
+# Import all other group playbooks in this file...
+
